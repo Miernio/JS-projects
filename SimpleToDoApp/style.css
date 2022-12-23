@@ -71,18 +71,7 @@ font-weight: bold;
 
 input[type="text"]
 {
-    -moz-appearance: none;
-    -webkit-appearance: none;
-    -ms-appearance: none;
-    appearance: none;
-    -moz-transform: scale(1);
-    -webkit-transform: scale(1);
-    -ms-transform: scale(1);
-    transform: scale(1);
-    -moz-transition: border-color 0.2s ease, background-color 0.2s ease;
-    -webkit-transition: border-color 0.2s ease, background-color 0.2s ease;
-    -ms-transition: border-color 0.2s ease, background-color 0.2s ease;
-    transition: border-color 0.2s ease, background-color 0.2s ease;
+
     margin-left: 20px;
     background-color: transparent;
     border-radius: 6px;
@@ -106,14 +95,6 @@ input[type="text"]
     }
 }
 button {
-    -moz-appearance: none;
-    -webkit-appearance: none;
-    -ms-appearance: none;
-    appearance: none;
-    -moz-transition: background-color 0.2s ease-in-out, color 0.2s ease-in-out, opacity 0.2s ease-in-out;
-    -webkit-transition: background-color 0.2s ease-in-out, color 0.2s ease-in-out, opacity 0.2s ease-in-out;
-    -ms-transition: background-color 0.2s ease-in-out, color 0.2s ease-in-out, opacity 0.2s ease-in-out;
-    transition: background-color 0.2s ease-in-out, color 0.2s ease-in-out, opacity 0.2s ease-in-out;
     background-color:transparent;
     border-radius: 6px;
     border: 0;
